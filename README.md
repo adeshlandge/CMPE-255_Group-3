@@ -9,3 +9,6 @@ Adesh Landge <br/>
 Pragnesh Bagary <br/>
 Yogesh Luckshetty <br/>
 Madhuri Ghattamaneni <br/>
+
+Yelp Dataset Link: <br/>
+https://www.yelp.com/dataset
